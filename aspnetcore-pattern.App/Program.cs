@@ -1,6 +1,5 @@
-﻿using aspnetcore_pattern.CircuitBreaker;
+﻿using aspnetcore_pattern.Command;
 using System;
-using System.Diagnostics;
 
 namespace aspnetcore_pattern.App
 {
@@ -8,9 +7,18 @@ namespace aspnetcore_pattern.App
     {
         static void Main(string[] args)
         {
-            var cb = new CircuitBreakerWithPolly();
+            Receiver receiver = new Receiver();
+            
+            ConcreteCommand command = new ConcreteCommand(receiver);
+            
+            Invoker invoker = new Invoker();
 
-            cb.Execute();
+            invoker.SetCommand(command);
+            invoker.ExecuteCommand();
+
+            Console.ReadKey();
+
+            int @operator = 0;
         }
     }
 }

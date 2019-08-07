@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v2.1": {
       "aspnetcore-pattern.App/1.0.0": {
         "dependencies": {
-          "aspnetcore-pattern.CircuitBreaker": "1.0.0"
+          "aspnetcore-pattern.CircuitBreaker": "1.0.0",
+          "aspnetcore-pattern.Command": "1.0.0"
         },
         "runtime": {
           "aspnetcore-pattern.App.dll": {}
@@ -29,6 +30,11 @@
         "runtime": {
           "aspnetcore-pattern.CircuitBreaker.dll": {}
         }
+      },
+      "aspnetcore-pattern.Command/1.0.0": {
+        "runtime": {
+          "aspnetcore-pattern.Command.dll": {}
+        }
       }
     }
   },
@@ -46,6 +52,11 @@
       "hashPath": "polly.7.1.0.nupkg.sha512"
     },
     "aspnetcore-pattern.CircuitBreaker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "aspnetcore-pattern.Command/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

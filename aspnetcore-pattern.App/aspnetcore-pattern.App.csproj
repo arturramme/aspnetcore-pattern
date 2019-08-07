@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\aspnetcore-pattern.CircuitBreaker\aspnetcore-pattern.CircuitBreaker.csproj" />
+    <ProjectReference Include="..\aspnetcore-pattern.Command\aspnetcore-pattern.Command.csproj" />
   </ItemGroup>
 
 </Project>

@@ -207,38 +207,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Polly/7.1.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Polly.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Polly.dll": {}
-        }
-      },
-      "aspnetcore-pattern.CircuitBreaker/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Polly": "7.1.0"
-        },
-        "compile": {
-          "bin/placeholder/aspnetcore-pattern.CircuitBreaker.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/aspnetcore-pattern.CircuitBreaker.dll": {}
-        }
-      },
-      "aspnetcore-pattern.Command/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "compile": {
-          "bin/placeholder/aspnetcore-pattern.Command.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/aspnetcore-pattern.Command.dll": {}
-        }
       }
     }
   },
@@ -712,38 +680,11 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Polly/7.1.0": {
-      "sha512": "mpQsvlEn4ipgICh5CGyVLPV93RFVzOrBG7wPZfzY8gExh7XgWQn0GCDY9nudbUEJ12UiGPP9i4+CohghBvzhmg==",
-      "type": "package",
-      "path": "polly/7.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard1.1/Polly.dll",
-        "lib/netstandard1.1/Polly.xml",
-        "lib/netstandard2.0/Polly.dll",
-        "lib/netstandard2.0/Polly.xml",
-        "polly.7.1.0.nupkg.sha512",
-        "polly.nuspec"
-      ]
-    },
-    "aspnetcore-pattern.CircuitBreaker/1.0.0": {
-      "type": "project",
-      "path": "../aspnetcore-pattern.CircuitBreaker/aspnetcore-pattern.CircuitBreaker.csproj",
-      "msbuildProject": "../aspnetcore-pattern.CircuitBreaker/aspnetcore-pattern.CircuitBreaker.csproj"
-    },
-    "aspnetcore-pattern.Command/1.0.0": {
-      "type": "project",
-      "path": "../aspnetcore-pattern.Command/aspnetcore-pattern.Command.csproj",
-      "msbuildProject": "../aspnetcore-pattern.Command/aspnetcore-pattern.Command.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0",
-      "aspnetcore-pattern.CircuitBreaker >= 1.0.0",
-      "aspnetcore-pattern.Command >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -753,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.App\\aspnetcore-pattern.App.csproj",
-      "projectName": "aspnetcore-pattern.App",
-      "projectPath": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.App\\aspnetcore-pattern.App.csproj",
+      "projectUniqueName": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.Command\\aspnetcore-pattern.Command.csproj",
+      "projectName": "aspnetcore-pattern.Command",
+      "projectPath": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.Command\\aspnetcore-pattern.Command.csproj",
       "packagesPath": "C:\\Users\\artur.ramme\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.App\\obj\\",
+      "outputPath": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.Command\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -775,14 +716,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {
-            "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.CircuitBreaker\\aspnetcore-pattern.CircuitBreaker.csproj": {
-              "projectPath": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.CircuitBreaker\\aspnetcore-pattern.CircuitBreaker.csproj"
-            },
-            "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.Command\\aspnetcore-pattern.Command.csproj": {
-              "projectPath": "C:\\git\\aspnetcore-pattern\\aspnetcore-pattern.Command\\aspnetcore-pattern.Command.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -795,6 +729,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

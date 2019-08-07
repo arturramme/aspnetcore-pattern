@@ -12,3 +12,5 @@ C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetc
 C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.csproj.CopyComplete
 C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.dll
 C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.pdb
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.Command.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.Command.pdb

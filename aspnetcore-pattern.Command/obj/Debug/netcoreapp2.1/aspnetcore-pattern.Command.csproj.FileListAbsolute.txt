@@ -1,0 +1,9 @@
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\bin\Debug\netcoreapp2.1\aspnetcore-pattern.Command.deps.json
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\bin\Debug\netcoreapp2.1\aspnetcore-pattern.Command.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\bin\Debug\netcoreapp2.1\aspnetcore-pattern.Command.pdb
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\obj\Debug\netcoreapp2.1\aspnetcore-pattern.Command.csprojAssemblyReference.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\obj\Debug\netcoreapp2.1\aspnetcore-pattern.Command.csproj.CoreCompileInputs.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\obj\Debug\netcoreapp2.1\aspnetcore-pattern.Command.AssemblyInfoInputs.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\obj\Debug\netcoreapp2.1\aspnetcore-pattern.Command.AssemblyInfo.cs
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\obj\Debug\netcoreapp2.1\aspnetcore-pattern.Command.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.Command\obj\Debug\netcoreapp2.1\aspnetcore-pattern.Command.pdb

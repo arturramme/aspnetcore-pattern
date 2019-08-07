@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-pattern.CircuitBreaker", "aspnetcore-pattern.CircuitBreaker\aspnetcore-pattern.CircuitBreaker.csproj", "{A2C7714F-C646-4789-8118-6BF07D8B3F03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetcore-pattern.CircuitBreaker", "aspnetcore-pattern.CircuitBreaker\aspnetcore-pattern.CircuitBreaker.csproj", "{A2C7714F-C646-4789-8118-6BF07D8B3F03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-pattern.App", "aspnetcore-pattern.App\aspnetcore-pattern.App.csproj", "{8B5C38A5-C63F-404C-B004-EF458B74416D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetcore-pattern.App", "aspnetcore-pattern.App\aspnetcore-pattern.App.csproj", "{8B5C38A5-C63F-404C-B004-EF458B74416D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-pattern.Command", "aspnetcore-pattern.Command\aspnetcore-pattern.Command.csproj", "{B3573163-C6C0-423A-8015-893231827047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8B5C38A5-C63F-404C-B004-EF458B74416D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B5C38A5-C63F-404C-B004-EF458B74416D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B5C38A5-C63F-404C-B004-EF458B74416D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3573163-C6C0-423A-8015-893231827047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3573163-C6C0-423A-8015-893231827047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3573163-C6C0-423A-8015-893231827047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3573163-C6C0-423A-8015-893231827047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
