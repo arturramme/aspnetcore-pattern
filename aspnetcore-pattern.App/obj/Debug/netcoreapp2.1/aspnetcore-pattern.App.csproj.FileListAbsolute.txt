@@ -1,0 +1,14 @@
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.App.deps.json
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.App.runtimeconfig.json
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.App.runtimeconfig.dev.json
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.App.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.App.pdb
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\bin\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.pdb
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.csprojAssemblyReference.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.csproj.CoreCompileInputs.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.AssemblyInfoInputs.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.AssemblyInfo.cs
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.csproj.CopyComplete
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.App\obj\Debug\netcoreapp2.1\aspnetcore-pattern.App.pdb

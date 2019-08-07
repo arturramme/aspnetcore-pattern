@@ -1,0 +1,9 @@
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\bin\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.deps.json
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\bin\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\bin\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.pdb
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\obj\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.csprojAssemblyReference.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\obj\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.csproj.CoreCompileInputs.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\obj\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.AssemblyInfoInputs.cache
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\obj\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.AssemblyInfo.cs
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\obj\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.dll
+C:\git\aspnetcore-pattern\aspnetcore-pattern.CircuitBreaker\obj\Debug\netcoreapp2.1\aspnetcore-pattern.CircuitBreaker.pdb
