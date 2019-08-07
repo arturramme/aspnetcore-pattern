@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "c2e7e482bb41a66278f0846520d4dbc86421f9c4"
   },
   "compilationOptions": {},
   "targets": {
@@ -14,7 +14,18 @@
           "aspnetcore-pattern.App.dll": {}
         }
       },
+      "Polly/7.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.1.0.0"
+          }
+        }
+      },
       "aspnetcore-pattern.CircuitBreaker/1.0.0": {
+        "dependencies": {
+          "Polly": "7.1.0"
+        },
         "runtime": {
           "aspnetcore-pattern.CircuitBreaker.dll": {}
         }
@@ -26,6 +37,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Polly/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mpQsvlEn4ipgICh5CGyVLPV93RFVzOrBG7wPZfzY8gExh7XgWQn0GCDY9nudbUEJ12UiGPP9i4+CohghBvzhmg==",
+      "path": "polly/7.1.0",
+      "hashPath": "polly.7.1.0.nupkg.sha512"
     },
     "aspnetcore-pattern.CircuitBreaker/1.0.0": {
       "type": "project",

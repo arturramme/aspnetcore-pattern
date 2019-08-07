@@ -101,6 +101,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.1.0, )"
             }
           },
           "imports": [
